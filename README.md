@@ -1,2 +1,1 @@
-# Codewars
-Repo for Kata solutions.
+A repository filled with codewars challenges.
